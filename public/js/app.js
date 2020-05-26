@@ -1,7 +1,3 @@
-console.log('Client side java script file loaded successfully.')
-
-
-
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 // to target by element name, just use name (ie. form or input^), to target by class use (.className), but to target by id, use #idValue
